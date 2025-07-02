@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/vigneshvijayan103/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
