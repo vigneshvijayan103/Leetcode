@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vigneshvijayan103/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/vigneshvijayan103/Leetcode/tree/master/0742-to-lower-case) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 ## Database
 |  |
 | ------- |
@@ -54,8 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
