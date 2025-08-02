@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
