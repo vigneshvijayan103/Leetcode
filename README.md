@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 ## Database
 |  |
