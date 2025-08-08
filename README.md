@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/vigneshvijayan103/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vigneshvijayan103/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/vigneshvijayan103/Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/vigneshvijayan103/Leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vigneshvijayan103/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
