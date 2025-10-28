@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vigneshvijayan103/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshvijayan103/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vigneshvijayan103/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
