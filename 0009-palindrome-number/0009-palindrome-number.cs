@@ -1,23 +1,18 @@
 public class Solution {
     public bool IsPalindrome(int x) {
-          int Number = x;
-  if (x < 0)
-  {
-      Console.WriteLine($"{x} is Negative");
-  }
-  else
-  {
-      int rev = 0;
-      while (x>0) {
-          int digit = x % 10;
-          rev = rev * 10 + digit;
-          x = x / 10;
-      }
-
-      if (Number == rev) {
-          return true;
-      }
+        if(x<0)
+            return false;
+        int rev=0;
+        int n=x;
+        while(n>0){
+            int number=n%10;
+            rev=rev*10+number;
+            n=n/10;
         }
-  return false; 
+        if(x==rev)
+            return true;
+            else
+                return false;
     }
+
 }
