@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vigneshvijayan103/Leetcode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vigneshvijayan103/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
