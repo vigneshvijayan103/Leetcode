@@ -9,10 +9,6 @@ public class Solution {
             }
         }
     }
-
-           
-        
-   
         return count;
     }
 }
