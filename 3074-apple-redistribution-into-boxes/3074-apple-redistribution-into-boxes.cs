@@ -4,25 +4,19 @@ public class Solution {
         int count=0;
         for(int i=0;i<apple.Length;i++){
             sum+=apple[i];
-
-        }   
-       
+        }        
          Array.Sort(capacity);
 
         for(int j=capacity.Length-1;j>=0;j--){
             
             sum-=capacity[j];
             count++;
-           
-
             if(sum<=0){
               break;  
           
             }
         }
-
-         return count;
-       
+         return count;    
 
     }
 }
