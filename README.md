@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
