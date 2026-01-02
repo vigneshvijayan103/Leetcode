@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshvijayan103/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vigneshvijayan103/Leetcode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vigneshvijayan103/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vigneshvijayan103/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
