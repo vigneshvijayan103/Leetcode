@@ -1,7 +1,7 @@
 public class Solution {
     public int MostFrequentEven(int[] nums) {
         int count =0;
-        int number=0;
+        int number=-1;
       for(int i=0;i<nums.Length;i++){
         int temp=0;
         for(int j=0;j<nums.Length;j++){
@@ -19,9 +19,6 @@ public class Solution {
             }
         }
       }
-      if(count==0){
-        return -1;
-      }else
         return number;
     }
 }
