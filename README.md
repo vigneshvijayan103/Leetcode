@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vigneshvijayan103/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/vigneshvijayan103/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vigneshvijayan103/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vigneshvijayan103/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
