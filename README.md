@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Hash Table
 |  |
