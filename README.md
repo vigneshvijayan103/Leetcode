@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/vigneshvijayan103/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/vigneshvijayan103/Leetcode/tree/master/0742-to-lower-case) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vigneshvijayan103/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3794-reverse-string-prefix](https://github.com/vigneshvijayan103/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
