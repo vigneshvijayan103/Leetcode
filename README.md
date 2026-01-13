@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/vigneshvijayan103/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/vigneshvijayan103/Leetcode/tree/master/0742-to-lower-case) |
+| [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vigneshvijayan103/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3794-reverse-string-prefix](https://github.com/vigneshvijayan103/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vigneshvijayan103/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
