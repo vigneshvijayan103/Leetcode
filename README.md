@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vigneshvijayan103/Leetcode/tree/master/0283-move-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vigneshvijayan103/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
