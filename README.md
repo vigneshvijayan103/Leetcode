@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vigneshvijayan103/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vigneshvijayan103/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
