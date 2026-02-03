@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vigneshvijayan103/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vigneshvijayan103/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vigneshvijayan103/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vigneshvijayan103/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
@@ -170,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vigneshvijayan103/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vigneshvijayan103/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/0169-majority-element) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/vigneshvijayan103/Leetcode/tree/master/3467-transform-array-by-parity) |
