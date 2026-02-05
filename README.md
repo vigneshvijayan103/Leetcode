@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vigneshvijayan103/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
