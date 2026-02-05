@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vigneshvijayan103/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/vigneshvijayan103/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vigneshvijayan103/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vigneshvijayan103/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vigneshvijayan103/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Database
 |  |
 | ------- |
