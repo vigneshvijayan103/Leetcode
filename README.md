@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/vigneshvijayan103/Leetcode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/vigneshvijayan103/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vigneshvijayan103/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vigneshvijayan103/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/vigneshvijayan103/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
