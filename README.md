@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vigneshvijayan103/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/vigneshvijayan103/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/vigneshvijayan103/Leetcode/tree/master/3467-transform-array-by-parity) |
