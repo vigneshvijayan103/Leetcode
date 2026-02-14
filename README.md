@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vigneshvijayan103/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vigneshvijayan103/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/vigneshvijayan103/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
