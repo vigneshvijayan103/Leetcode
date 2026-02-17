@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vigneshvijayan103/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vigneshvijayan103/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/vigneshvijayan103/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vigneshvijayan103/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
