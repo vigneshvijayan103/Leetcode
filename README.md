@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/vigneshvijayan103/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vigneshvijayan103/Leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
+| [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vigneshvijayan103/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vigneshvijayan103/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vigneshvijayan103/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/vigneshvijayan103/Leetcode/tree/master/1995-count-special-quadruplets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
