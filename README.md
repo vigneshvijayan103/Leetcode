@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/vigneshvijayan103/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3498-reverse-degree-of-a-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/vigneshvijayan103/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2886-faulty-keyboard](https://github.com/vigneshvijayan103/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/vigneshvijayan103/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
