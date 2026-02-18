@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vigneshvijayan103/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/vigneshvijayan103/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vigneshvijayan103/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/vigneshvijayan103/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vigneshvijayan103/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/vigneshvijayan103/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/vigneshvijayan103/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2706-buy-two-chocolates](https://github.com/vigneshvijayan103/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/vigneshvijayan103/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
