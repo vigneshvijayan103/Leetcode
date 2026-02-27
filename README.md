@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vigneshvijayan103/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vigneshvijayan103/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vigneshvijayan103/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/vigneshvijayan103/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/vigneshvijayan103/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vigneshvijayan103/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vigneshvijayan103/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vigneshvijayan103/Leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/vigneshvijayan103/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/vigneshvijayan103/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vigneshvijayan103/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1995-count-special-quadruplets](https://github.com/vigneshvijayan103/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vigneshvijayan103/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/vigneshvijayan103/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/vigneshvijayan103/Leetcode/tree/master/2974-minimum-number-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vigneshvijayan103/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
